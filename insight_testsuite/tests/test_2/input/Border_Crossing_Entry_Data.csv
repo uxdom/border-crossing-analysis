@@ -1,0 +1,487 @@
+Port Name,State,Port Code,Border,Date,Measure,Value
+Warroad,Minnesota,3423,US-Canada Border,12/01/2002 12:00:00 AM,Trucks,1149
+Sasabe,Arizona,2606,US-Mexico Border,12/01/2002 12:00:00 AM,Personal Vehicles,3996
+International Falls-Ranier,Minnesota,3604,US-Canada Border,12/01/2002 12:00:00 AM,Rail Containers Empty,3067
+Otay Mesa,California,2506,US-Mexico Border,12/01/2002 12:00:00 AM,Truck Containers Full,28861
+Detroit,Michigan,3801,US-Canada Border,12/01/2002 12:00:00 AM,Bus Passengers,71150
+Dalton Cache,Alaska,3106,US-Canada Border,12/01/2002 12:00:00 AM,Truck Containers Empty,24
+Fortuna,North Dakota,3417,US-Canada Border,12/01/2002 12:00:00 AM,Buses,1
+Portland,Maine,101,US-Canada Border,12/01/2002 12:00:00 AM,Rail Containers Empty,0
+Hansboro,North Dakota,3415,US-Canada Border,12/01/2002 12:00:00 AM,Personal Vehicles,643
+Laurier,Washington,3016,US-Canada Border,06/01/2019 12:00:00 AM,Trucks,492
+Laurier,Washington,3016,US-Canada Border,06/01/2019 12:00:00 AM,Truck Containers Full,113
+Laurier,Washington,3016,US-Canada Border,06/01/2019 12:00:00 AM,Truck Containers Empty,381
+Laurier,Washington,3016,US-Canada Border,06/01/2019 12:00:00 AM,Trains,11
+Opheim,Montana,3317,US-Canada Border,05/01/2019 12:00:00 AM,Personal Vehicles,209
+Opheim,Montana,3317,US-Canada Border,05/01/2019 12:00:00 AM,Truck Containers Empty,4
+Opheim,Montana,3317,US-Canada Border,05/01/2019 12:00:00 AM,Truck Containers Full,54
+Opheim,Montana,3317,US-Canada Border,05/01/2019 12:00:00 AM,Trucks,31
+Piegan,Montana,3316,US-Canada Border,05/01/2019 12:00:00 AM,Bus Passengers,87
+Piegan,Montana,3316,US-Canada Border,05/01/2019 12:00:00 AM,Buses,2
+Piegan,Montana,3316,US-Canada Border,05/01/2019 12:00:00 AM,Personal Vehicle Passengers,15067
+Buffalo-Niagara Falls,New York,901,US-Canada Border,01/01/2018 12:00:00 AM,Train Passengers,1391
+Neche,North Dakota,3404,US-Canada Border,01/01/2018 12:00:00 AM,Truck Containers Empty,519
+Brownsville,Texas,2301,US-Mexico Border,01/01/2018 12:00:00 AM,Buses,524
+Warroad,Minnesota,3423,US-Canada Border,01/01/2018 12:00:00 AM,Bus Passengers,228
+Calexico East,California,2507,US-Mexico Border,01/01/2018 12:00:00 AM,Pedestrians,25325
+Calais,Maine,115,US-Canada Border,01/01/2018 12:00:00 AM,Truck Containers Full,3269
+St. John,North Dakota,3405,US-Canada Border,01/01/2018 12:00:00 AM,Truck Containers Empty,26
+Columbus,New Mexico,2406,US-Mexico Border,01/01/2018 12:00:00 AM,Personal Vehicle Passengers,59743
+Boundary,Washington,3015,US-Canada Border,01/01/2018 12:00:00 AM,Personal Vehicle Passengers,3325
+Vanceboro,Maine,105,US-Canada Border,01/01/2018 12:00:00 AM,Trains,23
+Blaine,Washington,3004,US-Canada Border,01/01/2018 12:00:00 AM,Trucks,30441
+Otay Mesa,California,2506,US-Mexico Border,01/01/2018 12:00:00 AM,Truck Containers Empty,15767
+Highgate Springs-Alburg,Vermont,212,US-Canada Border,12/01/2017 12:00:00 AM,Rail Containers Empty,187
+Laurier,Washington,3016,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,5388
+Northgate,North Dakota,3406,US-Canada Border,12/01/2017 12:00:00 AM,Train Passengers,54
+Sumas,Washington,3009,US-Canada Border,12/01/2017 12:00:00 AM,Rail Containers Full,68
+Eastport,Idaho,3302,US-Canada Border,12/01/2017 12:00:00 AM,Buses,3
+Roma,Texas,2310,US-Mexico Border,12/01/2017 12:00:00 AM,Pedestrians,23762
+Walhalla,North Dakota,3407,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,255
+Port Huron,Michigan,3802,US-Canada Border,12/01/2017 12:00:00 AM,Trains,236
+Pembina,North Dakota,3401,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,18577
+Detroit,Michigan,3801,US-Canada Border,12/01/2017 12:00:00 AM,Trucks,113693
+Champlain-Rouses Point,New York,712,US-Canada Border,12/01/2017 12:00:00 AM,Pedestrians,153
+Scobey,Montana,3309,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Full,4
+Warroad,Minnesota,3423,US-Canada Border,12/01/2017 12:00:00 AM,Bus Passengers,186
+Roseau,Minnesota,3426,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,113
+El Paso,Texas,2402,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicles,1027086
+Derby Line,Vermont,209,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,806
+Beecher Falls,Vermont,206,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,3139
+Laredo,Texas,2304,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,982502
+Houlton,Maine,106,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Full,5320
+Limestone,Maine,118,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,1982
+Pembina,North Dakota,3401,US-Canada Border,12/01/2017 12:00:00 AM,Train Passengers,164
+Calais,Maine,115,US-Canada Border,12/01/2017 12:00:00 AM,Train Passengers,34
+Dalton Cache,Alaska,3106,US-Canada Border,12/01/2017 12:00:00 AM,Trucks,85
+Roosville,Montana,3318,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,20320
+Laurier,Washington,3016,US-Canada Border,12/01/2017 12:00:00 AM,Buses,2
+Columbus,New Mexico,2406,US-Mexico Border,12/01/2017 12:00:00 AM,Trucks,1305
+International Falls-Ranier,Minnesota,3604,US-Canada Border,12/01/2017 12:00:00 AM,Buses,23
+Hidalgo,Texas,2305,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,851587
+Calexico East,California,2507,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicles,319442
+Progreso,Texas,2309,US-Mexico Border,12/01/2017 12:00:00 AM,Truck Containers Full,1593
+Eastport,Idaho,3302,US-Canada Border,12/01/2017 12:00:00 AM,Rail Containers Full,9214
+Sweetgrass,Montana,3310,US-Canada Border,12/01/2017 12:00:00 AM,Buses,4
+Douglas,Arizona,2601,US-Mexico Border,12/01/2017 12:00:00 AM,Truck Containers Full,1612
+Richford,Vermont,203,US-Canada Border,12/01/2017 12:00:00 AM,Train Passengers,16
+Santa Teresa,New Mexico,2408,US-Mexico Border,12/01/2017 12:00:00 AM,Truck Containers Empty,3459
+Sault Sainte Marie,Michigan,3803,US-Canada Border,12/01/2017 12:00:00 AM,Rail Containers Full,1276
+Raymond,Montana,3301,US-Canada Border,12/01/2017 12:00:00 AM,Trucks,1051
+Van Buren,Maine,108,US-Canada Border,12/01/2017 12:00:00 AM,Trucks,1182
+Blaine,Washington,3004,US-Canada Border,12/01/2017 12:00:00 AM,Trucks,27797
+Buffalo-Niagara Falls,New York,901,US-Canada Border,12/01/2017 12:00:00 AM,Pedestrians,9163
+Metaline Falls,Washington,3025,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,3391
+Otay Mesa,California,2506,US-Mexico Border,12/01/2017 12:00:00 AM,Truck Containers Empty,15837
+Northgate,North Dakota,3406,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,1075
+Lancaster,Minnesota,3430,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,312
+Westhope,North Dakota,3419,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,1287
+Pembina,North Dakota,3401,US-Canada Border,12/01/2017 12:00:00 AM,Buses,60
+Piegan,Montana,3316,US-Canada Border,12/01/2017 12:00:00 AM,Trucks,168
+Columbus,New Mexico,2406,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicles,29673
+Roma,Texas,2310,US-Mexico Border,12/01/2017 12:00:00 AM,Buses,38
+Rio Grande City,Texas,2307,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicles,38571
+Piegan,Montana,3316,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Full,155
+Sweetgrass,Montana,3310,US-Canada Border,12/01/2017 12:00:00 AM,Trains,37
+Skagway,Alaska,3103,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,1377
+Maida,North Dakota,3416,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Full,17
+Neche,North Dakota,3404,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,5075
+Boundary,Washington,3015,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,4680
+Eastport,Idaho,3302,US-Canada Border,12/01/2017 12:00:00 AM,Rail Containers Empty,445
+Norton,Vermont,211,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,1674
+Eagle Pass,Texas,2303,US-Mexico Border,12/01/2017 12:00:00 AM,Truck Containers Empty,2452
+Sarles,North Dakota,3409,US-Canada Border,12/01/2017 12:00:00 AM,Buses,9
+Dunseith,North Dakota,3422,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,323
+San Luis,Arizona,2608,US-Mexico Border,12/01/2017 12:00:00 AM,Bus Passengers,9
+Nogales,Arizona,2604,US-Mexico Border,12/01/2017 12:00:00 AM,Rail Containers Full,1983
+Laredo,Texas,2304,US-Mexico Border,12/01/2017 12:00:00 AM,Pedestrians,203732
+Hannah,North Dakota,3408,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,106
+Highgate Springs-Alburg,Vermont,212,US-Canada Border,12/01/2017 12:00:00 AM,Train Passengers,46
+Madawaska,Maine,109,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,46454
+Danville,Washington,3012,US-Canada Border,12/01/2017 12:00:00 AM,Pedestrians,2
+Sweetgrass,Montana,3310,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Full,8382
+Highgate Springs-Alburg,Vermont,212,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,61161
+Turner,Montana,3306,US-Canada Border,12/01/2017 12:00:00 AM,Buses,3
+Naco,Arizona,2603,US-Mexico Border,12/01/2017 12:00:00 AM,Buses,3
+Douglas,Arizona,2601,US-Mexico Border,12/01/2017 12:00:00 AM,Bus Passengers,2384
+Pembina,North Dakota,3401,US-Canada Border,12/01/2017 12:00:00 AM,Rail Containers Full,7488
+Scobey,Montana,3309,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,397
+San Luis,Arizona,2608,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicles,290807
+International Falls-Ranier,Minnesota,3604,US-Canada Border,12/01/2017 12:00:00 AM,Rail Containers Empty,13564
+Anacortes,Washington,3010,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,5194
+Metaline Falls,Washington,3025,US-Canada Border,12/01/2017 12:00:00 AM,Buses,9
+Alcan,Alaska,3104,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,780
+Hansboro,North Dakota,3415,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,1160
+Brownsville,Texas,2301,US-Mexico Border,12/01/2017 12:00:00 AM,Pedestrians,239209
+Tecate,California,2505,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,173292
+Roosville,Montana,3318,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Full,397
+Champlain-Rouses Point,New York,712,US-Canada Border,12/01/2017 12:00:00 AM,Bus Passengers,26717
+Piegan,Montana,3316,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,3973
+El Paso,Texas,2402,US-Mexico Border,12/01/2017 12:00:00 AM,Bus Passengers,18056
+Ferry,Washington,3013,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,465
+Blaine,Washington,3004,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,655278
+Neche,North Dakota,3404,US-Canada Border,12/01/2017 12:00:00 AM,Trucks,544
+Port Angeles,Washington,3007,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,3
+Presidio,Texas,2403,US-Mexico Border,12/01/2017 12:00:00 AM,Buses,98
+Otay Mesa,California,2506,US-Mexico Border,12/01/2017 12:00:00 AM,Buses,2298
+Boundary,Washington,3015,US-Canada Border,12/01/2017 12:00:00 AM,Trucks,40
+Neche,North Dakota,3404,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,3073
+Willow Creek,Montana,3325,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,531
+Hansboro,North Dakota,3415,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,536
+Fort Kent,Maine,110,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Full,151
+Vanceboro,Maine,105,US-Canada Border,12/01/2017 12:00:00 AM,Train Passengers,44
+Warroad,Minnesota,3423,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,11343
+Sarles,North Dakota,3409,US-Canada Border,12/01/2017 12:00:00 AM,Trucks,89
+Vanceboro,Maine,105,US-Canada Border,12/01/2017 12:00:00 AM,Trains,26
+Massena,New York,704,US-Canada Border,12/01/2017 12:00:00 AM,Trucks,1794
+Highgate Springs-Alburg,Vermont,212,US-Canada Border,12/01/2017 12:00:00 AM,Bus Passengers,4308
+Eastport,Idaho,3302,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,792
+Fort Kent,Maine,110,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,9688
+Naco,Arizona,2603,US-Mexico Border,12/01/2017 12:00:00 AM,Pedestrians,10186
+Walhalla,North Dakota,3407,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,5991
+Madawaska,Maine,109,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,31445
+Warroad,Minnesota,3423,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,7217
+Hidalgo,Texas,2305,US-Mexico Border,12/01/2017 12:00:00 AM,Pedestrians,216573
+Fort Kent,Maine,110,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,862
+Skagway,Alaska,3103,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,604
+Douglas,Arizona,2601,US-Mexico Border,12/01/2017 12:00:00 AM,Pedestrians,101060
+Boundary,Washington,3015,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,2961
+Derby Line,Vermont,209,US-Canada Border,12/01/2017 12:00:00 AM,Trucks,6742
+Brownsville,Texas,2301,US-Mexico Border,12/01/2017 12:00:00 AM,Bus Passengers,4102
+Roma,Texas,2310,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,146951
+Metaline Falls,Washington,3025,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,503
+Morgan,Montana,3319,US-Canada Border,12/01/2017 12:00:00 AM,Trucks,47
+Fort Fairfield,Maine,107,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,12985
+Dunseith,North Dakota,3422,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Full,1572
+Sault Sainte Marie,Michigan,3803,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,95036
+Laredo,Texas,2304,US-Mexico Border,12/01/2017 12:00:00 AM,Trucks,167208
+Massena,New York,704,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,122292
+Presidio,Texas,2403,US-Mexico Border,12/01/2017 12:00:00 AM,Pedestrians,27860
+Boundary,Washington,3015,US-Canada Border,12/01/2017 12:00:00 AM,Buses,1
+Detroit,Michigan,3801,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,321145
+Port Angeles,Washington,3007,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,7581
+Nogales,Arizona,2604,US-Mexico Border,12/01/2017 12:00:00 AM,Buses,896
+Port Huron,Michigan,3802,US-Canada Border,12/01/2017 12:00:00 AM,Train Passengers,551
+Calexico East,California,2507,US-Mexico Border,12/01/2017 12:00:00 AM,Trains,18
+Maida,North Dakota,3416,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,763
+Sault Sainte Marie,Michigan,3803,US-Canada Border,12/01/2017 12:00:00 AM,Bus Passengers,378
+Portal,North Dakota,3403,US-Canada Border,12/01/2017 12:00:00 AM,Train Passengers,423
+Nighthawk,Washington,3011,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,378
+Carbury,North Dakota,3421,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,1072
+Madawaska,Maine,109,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Full,32
+Portal,North Dakota,3403,US-Canada Border,12/01/2017 12:00:00 AM,Rail Containers Full,19306
+Grand Portage,Minnesota,3613,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,348
+St. John,North Dakota,3405,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,31
+Sumas,Washington,3009,US-Canada Border,12/01/2017 12:00:00 AM,Train Passengers,36
+Hidalgo,Texas,2305,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicles,384433
+Lancaster,Minnesota,3430,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,3481
+Ambrose,North Dakota,3410,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,148
+Algonac,Michigan,3814,US-Canada Border,12/01/2017 12:00:00 AM,Personal Vehicles,2638
+St. John,North Dakota,3405,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Full,1
+Roosville,Montana,3318,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,361
+Bridgewater,Maine,127,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Full,41
+Rio Grande City,Texas,2307,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,81566
+Calexico East,California,2507,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicle Passengers,601989
+Hidalgo,Texas,2305,US-Mexico Border,12/01/2017 12:00:00 AM,Truck Containers Full,35615
+Tecate,California,2505,US-Mexico Border,12/01/2017 12:00:00 AM,Trucks,4730
+Richford,Vermont,203,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,263
+Portal,North Dakota,3403,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,1561
+Sherwood,North Dakota,3414,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,260
+Calais,Maine,115,US-Canada Border,12/01/2017 12:00:00 AM,Pedestrians,40
+Champlain-Rouses Point,New York,712,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Full,20393
+Boundary,Washington,3015,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,40
+Laurier,Washington,3016,US-Canada Border,12/01/2017 12:00:00 AM,Rail Containers Empty,35
+Naco,Arizona,2603,US-Mexico Border,12/01/2017 12:00:00 AM,Personal Vehicles,27186
+Jackman,Maine,104,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,4223
+Port Huron,Michigan,3802,US-Canada Border,12/01/2017 12:00:00 AM,Rail Containers Full,19304
+Trout River,New York,715,US-Canada Border,12/01/2017 12:00:00 AM,Truck Containers Empty,538
+Calais,Maine,115,US-Canada Border,05/01/2017 12:00:00 AM,Buses,7
+Port Huron,Michigan,3802,US-Canada Border,05/01/2017 12:00:00 AM,Trains,291
+Richford,Vermont,203,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,53
+Grand Portage,Minnesota,3613,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,21554
+Sumas,Washington,3009,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,759
+Fort Kent,Maine,110,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,9692
+Frontier,Washington,3020,US-Canada Border,05/01/2017 12:00:00 AM,Buses,6
+Laurier,Washington,3016,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Empty,34
+Danville,Washington,3012,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,4045
+Laredo,Texas,2304,US-Mexico Border,05/01/2017 12:00:00 AM,Bus Passengers,56528
+Maida,North Dakota,3416,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,559
+Van Buren,Maine,108,US-Canada Border,05/01/2017 12:00:00 AM,Pedestrians,61
+Northgate,North Dakota,3406,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,1079
+Carbury,North Dakota,3421,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,1516
+Roseau,Minnesota,3426,US-Canada Border,05/01/2017 12:00:00 AM,Buses,2
+San Luis,Arizona,2608,US-Mexico Border,05/01/2017 12:00:00 AM,Personal Vehicles,267880
+San Luis,Arizona,2608,US-Mexico Border,05/01/2017 12:00:00 AM,Trucks,2794
+Morgan,Montana,3319,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,8
+Rio Grande City,Texas,2307,US-Mexico Border,05/01/2017 12:00:00 AM,Pedestrians,4261
+Del Rio,Texas,2302,US-Mexico Border,05/01/2017 12:00:00 AM,Trucks,6372
+Eastport,Maine,103,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,17
+Tornillo-Fabens,Texas,2404,US-Mexico Border,05/01/2017 12:00:00 AM,Pedestrians,3223
+Nogales,Arizona,2604,US-Mexico Border,05/01/2017 12:00:00 AM,Rail Containers Full,2800
+Jackman,Maine,104,US-Canada Border,05/01/2017 12:00:00 AM,Pedestrians,20
+Champlain-Rouses Point,New York,712,US-Canada Border,05/01/2017 12:00:00 AM,Pedestrians,296
+Skagway,Alaska,3103,US-Canada Border,05/01/2017 12:00:00 AM,Train Passengers,10768
+Warroad,Minnesota,3423,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,498
+Bridgewater,Maine,127,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,766
+Port Huron,Michigan,3802,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,3018
+Lukeville,Arizona,2602,US-Mexico Border,05/01/2017 12:00:00 AM,Buses,33
+Sweetgrass,Montana,3310,US-Canada Border,05/01/2017 12:00:00 AM,Train Passengers,174
+Otay Mesa,California,2506,US-Mexico Border,05/01/2017 12:00:00 AM,Train Passengers,36
+Oroville,Washington,3019,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,28495
+Lynden,Washington,3023,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,3966
+Lukeville,Arizona,2602,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Full,14
+Massena,New York,704,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,131758
+Portal,North Dakota,3403,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Full,16535
+El Paso,Texas,2402,US-Mexico Border,05/01/2017 12:00:00 AM,Pedestrians,600776
+Trout River,New York,715,US-Canada Border,05/01/2017 12:00:00 AM,Trains,48
+Antler,North Dakota,3413,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,623
+Madawaska,Maine,109,US-Canada Border,05/01/2017 12:00:00 AM,Buses,1
+Portal,North Dakota,3403,US-Canada Border,05/01/2017 12:00:00 AM,Pedestrians,169
+Skagway,Alaska,3103,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,11
+Northgate,North Dakota,3406,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Full,427
+Maida,North Dakota,3416,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,1035
+Lukeville,Arizona,2602,US-Mexico Border,05/01/2017 12:00:00 AM,Bus Passengers,179
+Pembina,North Dakota,3401,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,32414
+Sweetgrass,Montana,3310,US-Canada Border,05/01/2017 12:00:00 AM,Buses,14
+Champlain-Rouses Point,New York,712,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Empty,674
+Del Rio,Texas,2302,US-Mexico Border,05/01/2017 12:00:00 AM,Personal Vehicles,139245
+Skagway,Alaska,3103,US-Canada Border,05/01/2017 12:00:00 AM,Pedestrians,57
+Champlain-Rouses Point,New York,712,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,76265
+Eastport,Idaho,3302,US-Canada Border,05/01/2017 12:00:00 AM,Train Passengers,222
+Frontier,Washington,3020,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,208
+Jackman,Maine,104,US-Canada Border,05/01/2017 12:00:00 AM,Train Passengers,42
+Pembina,North Dakota,3401,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,19076
+Richford,Vermont,203,US-Canada Border,05/01/2017 12:00:00 AM,Trains,12
+Portal,North Dakota,3403,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,10335
+Eagle Pass,Texas,2303,US-Mexico Border,05/01/2017 12:00:00 AM,Pedestrians,69141
+Piegan,Montana,3316,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,14804
+El Paso,Texas,2402,US-Mexico Border,05/01/2017 12:00:00 AM,Trucks,68028
+Calais,Maine,115,US-Canada Border,05/01/2017 12:00:00 AM,Trains,20
+Alcan,Alaska,3104,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,554
+Baudette,Minnesota,3424,US-Canada Border,05/01/2017 12:00:00 AM,Pedestrians,50
+Roma,Texas,2310,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Full,522
+Madawaska,Maine,109,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,877
+Calexico,California,2503,US-Mexico Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,673457
+Laredo,Texas,2304,US-Mexico Border,05/01/2017 12:00:00 AM,Trucks,181625
+Laurier,Washington,3016,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,3024
+Eastport,Maine,103,US-Canada Border,05/01/2017 12:00:00 AM,Buses,1
+Calexico East,California,2507,US-Mexico Border,05/01/2017 12:00:00 AM,Personal Vehicles,322320
+Wildhorse,Montana,3323,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,2361
+Lancaster,Minnesota,3430,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,520
+International Falls-Ranier,Minnesota,3604,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,708
+Eastport,Maine,103,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,268
+Carbury,North Dakota,3421,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,97
+Lancaster,Minnesota,3430,US-Canada Border,05/01/2017 12:00:00 AM,Buses,2
+Madawaska,Maine,109,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,39
+Danville,Washington,3012,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,463
+Lynden,Washington,3023,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,6220
+Danville,Washington,3012,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,497
+Nogales,Arizona,2604,US-Mexico Border,05/01/2017 12:00:00 AM,Trains,58
+Norton,Vermont,211,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,1635
+Westhope,North Dakota,3419,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,1248
+Laredo,Texas,2304,US-Mexico Border,05/01/2017 12:00:00 AM,Rail Containers Empty,16760
+Antler,North Dakota,3413,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,84
+Alcan,Alaska,3104,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,6130
+Roseau,Minnesota,3426,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,553
+Blaine,Washington,3004,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,23641
+Boundary,Washington,3015,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Empty,516
+Columbus,New Mexico,2406,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Full,439
+Morgan,Montana,3319,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,28
+El Paso,Texas,2402,US-Mexico Border,05/01/2017 12:00:00 AM,Rail Containers Empty,4601
+International Falls-Ranier,Minnesota,3604,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Full,51127
+Baudette,Minnesota,3424,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,714
+Jackman,Maine,104,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,816
+Nighthawk,Washington,3011,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,1123
+Portal,North Dakota,3403,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Empty,9460
+Naco,Arizona,2603,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Empty,632
+Eagle Pass,Texas,2303,US-Mexico Border,05/01/2017 12:00:00 AM,Rail Containers Empty,14991
+Naco,Arizona,2603,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Full,293
+Otay Mesa,California,2506,US-Mexico Border,05/01/2017 12:00:00 AM,Trucks,81147
+Noonan,North Dakota,3420,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,234
+Nogales,Arizona,2604,US-Mexico Border,05/01/2017 12:00:00 AM,Pedestrians,287676
+Roma,Texas,2310,US-Mexico Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,129380
+St. John,North Dakota,3405,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,34
+El Paso,Texas,2402,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Full,46906
+Laurier,Washington,3016,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,7
+Sweetgrass,Montana,3310,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,11354
+Eastport,Maine,103,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,177
+Fort Fairfield,Maine,107,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,1144
+Douglas,Arizona,2601,US-Mexico Border,05/01/2017 12:00:00 AM,Trucks,2799
+Northgate,North Dakota,3406,US-Canada Border,05/01/2017 12:00:00 AM,Train Passengers,30
+Santa Teresa,New Mexico,2408,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Full,12992
+International Falls-Ranier,Minnesota,3604,US-Canada Border,05/01/2017 12:00:00 AM,Trains,344
+Champlain-Rouses Point,New York,712,US-Canada Border,05/01/2017 12:00:00 AM,Buses,990
+Sherwood,North Dakota,3414,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,1103
+Neche,North Dakota,3404,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,4409
+Douglas,Arizona,2601,US-Mexico Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,272764
+Raymond,Montana,3301,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,1753
+Nogales,Arizona,2604,US-Mexico Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,649181
+Beecher Falls,Vermont,206,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,4859
+Derby Line,Vermont,209,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,14675
+San Luis,Arizona,2608,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Full,3474
+Buffalo-Niagara Falls,New York,901,US-Canada Border,05/01/2017 12:00:00 AM,Pedestrians,26750
+Fort Kent,Maine,110,US-Canada Border,05/01/2017 12:00:00 AM,Buses,2
+Porthill,Idaho,3308,US-Canada Border,05/01/2017 12:00:00 AM,Pedestrians,10
+San Ysidro,California,2504,US-Mexico Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,2026742
+Limestone,Maine,118,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,2682
+Hannah,North Dakota,3408,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,109
+Raymond,Montana,3301,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,1945
+Vanceboro,Maine,105,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Empty,905
+Sumas,Washington,3009,US-Canada Border,05/01/2017 12:00:00 AM,Trains,17
+Raymond,Montana,3301,US-Canada Border,05/01/2017 12:00:00 AM,Buses,2
+Morgan,Montana,3319,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,384
+Cape Vincent,New York,706,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,505
+Laurier,Washington,3016,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,5386
+Opheim,Montana,3317,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,371
+Trout River,New York,715,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,23232
+Progreso,Texas,2309,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Empty,4769
+Sweetgrass,Montana,3310,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,750
+Blaine,Washington,3004,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Empty,9253
+Trout River,New York,715,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,1974
+Ogdensburg,New York,701,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,6812
+Ogdensburg,New York,701,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,3773
+Van Buren,Maine,108,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Full,305
+Lynden,Washington,3023,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,1877
+Calexico,California,2503,US-Mexico Border,05/01/2017 12:00:00 AM,Pedestrians,376282
+Nogales,Arizona,2604,US-Mexico Border,05/01/2017 12:00:00 AM,Buses,865
+Brownsville,Texas,2301,US-Mexico Border,05/01/2017 12:00:00 AM,Rail Containers Full,1153
+Sumas,Washington,3009,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,14571
+Norton,Vermont,211,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,2205
+Point Roberts,Washington,3017,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,106092
+Neche,North Dakota,3404,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,645
+Highgate Springs-Alburg,Vermont,212,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,76283
+Lancaster,Minnesota,3430,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,4508
+Sweetgrass,Montana,3310,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Full,1417
+Calais,Maine,115,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,291
+Blaine,Washington,3004,US-Canada Border,05/01/2017 12:00:00 AM,Trains,164
+Columbus,New Mexico,2406,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Empty,196
+Detroit,Michigan,3801,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,45660
+Opheim,Montana,3317,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,307
+Roosville,Montana,3318,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,29
+Brownsville,Texas,2301,US-Mexico Border,05/01/2017 12:00:00 AM,Rail Containers Empty,7489
+Douglas,Arizona,2601,US-Mexico Border,05/01/2017 12:00:00 AM,Pedestrians,54931
+Roseau,Minnesota,3426,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,270
+Opheim,Montana,3317,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,48
+Westhope,North Dakota,3419,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,823
+Laredo,Texas,2304,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Empty,33438
+Derby Line,Vermont,209,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,38928
+Eastport,Idaho,3302,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,8979
+Calexico East,California,2507,US-Mexico Border,05/01/2017 12:00:00 AM,Bus Passengers,10360
+Pinecreek,Minnesota,3425,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,601
+Portal,North Dakota,3403,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,4795
+Carbury,North Dakota,3421,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,25
+International Falls-Ranier,Minnesota,3604,US-Canada Border,05/01/2017 12:00:00 AM,Pedestrians,1113
+Piegan,Montana,3316,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,57
+Portal,North Dakota,3403,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,13351
+El Paso,Texas,2402,US-Mexico Border,05/01/2017 12:00:00 AM,Buses,1109
+Norton,Vermont,211,US-Canada Border,05/01/2017 12:00:00 AM,Trains,23
+Lancaster,Minnesota,3430,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,229
+Sault Sainte Marie,Michigan,3803,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Full,1223
+Calexico,California,2503,US-Mexico Border,05/01/2017 12:00:00 AM,Personal Vehicles,387673
+Ogdensburg,New York,701,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,1644
+Van Buren,Maine,108,US-Canada Border,05/01/2017 12:00:00 AM,Train Passengers,70
+Eastport,Idaho,3302,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Full,11133
+Fortuna,North Dakota,3417,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,1616
+Skagway,Alaska,3103,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,26024
+Fort Fairfield,Maine,107,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,8756
+Buffalo-Niagara Falls,New York,901,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,387277
+Houlton,Maine,106,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,13585
+Sumas,Washington,3009,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Full,91
+Lancaster,Minnesota,3430,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,2136
+Neche,North Dakota,3404,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,2448
+Champlain-Rouses Point,New York,712,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,159393
+Vanceboro,Maine,105,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,43
+Port Angeles,Washington,3007,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,12
+Alexandria Bay,New York,708,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,33362
+Ogdensburg,New York,701,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,24230
+Hansboro,North Dakota,3415,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,1107
+San Luis,Arizona,2608,US-Mexico Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,478936
+Trout River,New York,715,US-Canada Border,05/01/2017 12:00:00 AM,Train Passengers,96
+Calais,Maine,115,US-Canada Border,05/01/2017 12:00:00 AM,Pedestrians,868
+Sweetgrass,Montana,3310,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Empty,738
+Massena,New York,704,US-Canada Border,05/01/2017 12:00:00 AM,Pedestrians,20
+Eastport,Maine,103,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,16731
+Calexico East,California,2507,US-Mexico Border,05/01/2017 12:00:00 AM,Buses,259
+Boundary,Washington,3015,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,2468
+Ferry,Washington,3013,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,103
+Ogdensburg,New York,701,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,43872
+Eagle Pass,Texas,2303,US-Mexico Border,05/01/2017 12:00:00 AM,Trucks,15076
+Detroit,Michigan,3801,US-Canada Border,05/01/2017 12:00:00 AM,Rail Containers Empty,4850
+Portal,North Dakota,3403,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,7227
+Del Bonita,Montana,3322,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,91
+Northgate,North Dakota,3406,US-Canada Border,05/01/2017 12:00:00 AM,Trains,15
+Nogales,Arizona,2604,US-Mexico Border,05/01/2017 12:00:00 AM,Rail Containers Empty,2722
+Sault Sainte Marie,Michigan,3803,US-Canada Border,05/01/2017 12:00:00 AM,Buses,46
+Maida,North Dakota,3416,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,27
+Del Rio,Texas,2302,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Empty,2224
+Presidio,Texas,2403,US-Mexico Border,05/01/2017 12:00:00 AM,Bus Passengers,801
+Turner,Montana,3306,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,61
+Vanceboro,Maine,105,US-Canada Border,05/01/2017 12:00:00 AM,Train Passengers,50
+Grand Portage,Minnesota,3613,US-Canada Border,05/01/2017 12:00:00 AM,Buses,64
+Madawaska,Maine,109,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,1749
+Neche,North Dakota,3404,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,350
+Columbus,New Mexico,2406,US-Mexico Border,05/01/2017 12:00:00 AM,Personal Vehicles,35571
+Progreso,Texas,2309,US-Mexico Border,05/01/2017 12:00:00 AM,Pedestrians,62203
+Roseau,Minnesota,3426,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,60
+Champlain-Rouses Point,New York,712,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,37825
+Bridgewater,Maine,127,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,1427
+Ferry,Washington,3013,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,1314
+Hidalgo,Texas,2305,US-Mexico Border,05/01/2017 12:00:00 AM,Personal Vehicle Passengers,704003
+International Falls-Ranier,Minnesota,3604,US-Canada Border,05/01/2017 12:00:00 AM,Bus Passengers,418
+Dalton Cache,Alaska,3106,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,1676
+Alcan,Alaska,3104,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,644
+Pinecreek,Minnesota,3425,US-Canada Border,05/01/2017 12:00:00 AM,Trucks,53
+Carbury,North Dakota,3421,US-Canada Border,05/01/2017 12:00:00 AM,Personal Vehicles,819
+Noonan,North Dakota,3420,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Full,21
+Tecate,California,2505,US-Mexico Border,05/01/2017 12:00:00 AM,Truck Containers Empty,3888
+Richford,Vermont,203,US-Canada Border,05/01/2017 12:00:00 AM,Truck Containers Empty,426
+Blaine,Washington,3004,US-Canada Border,12/01/2016 12:00:00 AM,Truck Containers Empty,8473
+Ferry,Washington,3013,US-Canada Border,12/01/2016 12:00:00 AM,Personal Vehicle Passengers,805
+Nogales,Arizona,2604,US-Mexico Border,12/01/2016 12:00:00 AM,Rail Containers Full,3232
+Roosville,Montana,3318,US-Canada Border,12/01/2016 12:00:00 AM,Trucks,690
+Whitlash,Montana,3321,US-Canada Border,12/01/2016 12:00:00 AM,Personal Vehicles,44
+Frontier,Washington,3020,US-Canada Border,12/01/2016 12:00:00 AM,Truck Containers Full,789
+Progreso,Texas,2309,US-Mexico Border,12/01/2016 12:00:00 AM,Truck Containers Empty,1604
+Buffalo-Niagara Falls,New York,901,US-Canada Border,12/01/2016 12:00:00 AM,Rail Containers Empty,1519
+Presidio,Texas,2403,US-Mexico Border,12/01/2016 12:00:00 AM,Truck Containers Full,450
+Otay Mesa,California,2506,US-Mexico Border,12/01/2016 12:00:00 AM,Trains,21
+Douglas,Arizona,2601,US-Mexico Border,12/01/2016 12:00:00 AM,Personal Vehicles,139769
+Antler,North Dakota,3413,US-Canada Border,12/01/2016 12:00:00 AM,Personal Vehicles,527
+Calexico East,California,2507,US-Mexico Border,12/01/2016 12:00:00 AM,Personal Vehicles,350463
+Presidio,Texas,2403,US-Mexico Border,12/01/2016 12:00:00 AM,Truck Containers Empty,362
+Pinecreek,Minnesota,3425,US-Canada Border,12/01/2016 12:00:00 AM,Trucks,43
+Hidalgo,Texas,2305,US-Mexico Border,12/01/2016 12:00:00 AM,Trucks,45355
+Houlton,Maine,106,US-Canada Border,12/01/2016 12:00:00 AM,Personal Vehicles,17981
+Nogales,Arizona,2604,US-Mexico Border,12/01/2016 12:00:00 AM,Truck Containers Full,23442
+Roseau,Minnesota,3426,US-Canada Border,12/01/2016 12:00:00 AM,Buses,0
+Porthill,Idaho,3308,US-Canada Border,12/01/2016 12:00:00 AM,Personal Vehicles,9710
+Ketchikan,Alaska,3102,US-Canada Border,12/01/2016 12:00:00 AM,Buses,0
+Tecate,California,2505,US-Mexico Border,12/01/2016 12:00:00 AM,Pedestrians,68269
+Calais,Maine,115,US-Canada Border,12/01/2016 12:00:00 AM,Train Passengers,30
+Jackman,Maine,104,US-Canada Border,12/01/2016 12:00:00 AM,Truck Containers Full,2680
+Tornillo-Fabens,Texas,2404,US-Mexico Border,12/01/2016 12:00:00 AM,Personal Vehicles,29592
+Eastport,Idaho,3302,US-Canada Border,12/01/2016 12:00:00 AM,Personal Vehicle Passengers,8255
+Nogales,Arizona,2604,US-Mexico Border,12/01/2016 12:00:00 AM,Truck Containers Empty,5966
+Wildhorse,Montana,3323,US-Canada Border,12/01/2016 12:00:00 AM,Buses,0
+Alexandria Bay,New York,708,US-Canada Border,12/01/2016 12:00:00 AM,Bus Passengers,1192
+Ogdensburg,New York,701,US-Canada Border,12/01/2016 12:00:00 AM,Personal Vehicles,23357
+Metaline Falls,Washington,3025,US-Canada Border,12/01/2016 12:00:00 AM,Bus Passengers,104
+San Luis,Arizona,2608,US-Mexico Border,12/01/2016 12:00:00 AM,Bus Passengers,13
+Madawaska,Maine,109,US-Canada Border,12/01/2016 12:00:00 AM,Personal Vehicles,33811
+Limestone,Maine,118,US-Canada Border,12/01/2016 12:00:00 AM,Personal Vehicle Passengers,2223
+Champlain-Rouses Point,New York,712,US-Canada Border,12/01/2016 12:00:00 AM,Trains,93
+Laurier,Washington,3016,US-Canada Border,12/01/2016 12:00:00 AM,Train Passengers,26
+Richford,Vermont,203,US-Canada Border,12/01/2016 12:00:00 AM,Rail Containers Empty,39
+Norton,Vermont,211,US-Canada Border,12/01/2016 12:00:00 AM,Trains,18
+Anacortes,Washington,3010,US-Canada Border,12/01/2016 12:00:00 AM,Personal Vehicles,2242
+Alcan,Alaska,3104,US-Canada Border,12/01/2016 12:00:00 AM,Buses,1
+Danville,Washington,3012,US-Canada Border,12/01/2016 12:00:00 AM,Trucks,84
+Vanceboro,Maine,105,US-Canada Border,12/01/2016 12:00:00 AM,Truck Containers Empty,3
+Presidio,Texas,2403,US-Mexico Border,12/01/2016 12:00:00 AM,Trucks,812
+Naco,Arizona,2603,US-Mexico Border,12/01/2016 12:00:00 AM,Pedestrians,6002
+Hannah,North Dakota,3408,US-Canada Border,12/01/2016 12:00:00 AM,Trucks,7
+Otay Mesa,California,2506,US-Mexico Border,12/01/2016 12:00:00 AM,Truck Containers Full,48037
+Raymond,Montana,3301,US-Canada Border,12/01/2016 12:00:00 AM,Buses,1
+Sarles,North Dakota,3409,US-Canada Border,12/01/2016 12:00:00 AM,Truck Containers Empty,26
+Brownsville,Texas,2301,US-Mexico Border,12/01/2016 12:00:00 AM,Rail Containers Full,500
+Antler,North Dakota,3413,US-Canada Border,12/01/2016 12:00:00 AM,Truck Containers Empty,0
